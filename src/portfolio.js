@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Josephat Otieno",
   subTitle: "Fullstack Developer & Tech Innovator 🌍. I build scalable digital solutions that empower communities and address real challenges in Africa. Passionate about open source, data-driven development, and leveraging technology for social impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1ThjCisD-FnEPQcYAYU2XBsulYWcyCGF2/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1aaIy8UjTbdrYZX1tZvEarA1FihogRgF7/view?usp=drive_link",
   mail: "mailto:josephatotieno92@gmail.com",
 };
 
@@ -74,18 +74,12 @@ const skills = {
         },
         {
           skillName: "Angular",
-          fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
+          fontAwesomeClassname: "devicon-plain:angular",
           style: {
             color: "#339933",
           },
         },
-        {
-          skillName: "ElectronJS",
-          fontAwesomeClassname: "simple-icons:electron",
-          style: {
-            color: "#47848F",
-          },
-        },
+        
         {
           skillName: "Python",
           fontAwesomeClassname: "simple-icons:python",
@@ -95,14 +89,14 @@ const skills = {
         },
         {
           skillName: "Django",
-          fontAwesomeClassname: "devicon-plain:java-wordmark",
+          fontAwesomeClassname: "devicon-plain:django",
           style: {
             color: "#f89820",
           },
         },
         {
           skillName: "C#",
-          fontAwesomeClassname: "simple-icons:flutter",
+          fontAwesomeClassname: "simple-icons:csharp",
           style: {
             color: "#02569B",
           },
@@ -117,7 +111,7 @@ const skills = {
         },
         {
           skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          fontAwesomeClassname: "simple-icons:postgresql",
           style: {
             color: "#439743",
           },
@@ -135,26 +129,26 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experienced in hosting, scaling, and maintaining applications on cloud platforms.",
-        "⚡ Skilled with containerization and orchestration using Docker.",
+        "⚡ Experienced in hosting, and maintaining applications on cloud platforms.",
+        "⚡ Skilled with containerization  using Docker.",
         "⚡ Implementing CI/CD workflows with GitHub Actions for automated testing and deployment.",
         "⚡ Managing databases and backups on cloud services like AWS and GCP.",
       ],
       softwareSkills: [
         {
-          skillName: "GCP",
+          skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
             color: "#FF9900",
           },
         },
-        // {
-        //   skillName: "Netlify",
-        //   fontAwesomeClassname: "simple-icons:netlify",
-        //   style: {
-        //     color: "#38AFBB",
-        //   },
-        // },
+        {
+          skillName: "GCP",
+          fontAwesomeClassname: "simple-icons:gcc",
+          style: {
+            color: "#38AFBB",
+          },
+        },
         // {
         //   skillName: "Heroku",
         //   fontAwesomeClassname: "simple-icons:heroku",
@@ -460,7 +454,7 @@ const projects = {
     {
   id: "0",
   name: "IDEON CRM",
-  url: "https://github.com/josephatotieno/ideon-crm", // replace with actual if available
+  url: "", // replace with actual if available
   description:
     "A comprehensive debt collection and customer relationship management system built for financial institutions. It automates reminders, manages communication across multiple channels (SMS, email, WhatsApp), and integrates payment tracking and reporting to streamline debt recovery workflows.",
   languages: [
@@ -484,7 +478,7 @@ const projects = {
   links: [
     {
       name: "GitHub",
-      url: "https://github.com/josephatotieno/ideon-crm",
+      url: "",
       iconifyClass: "ri:github-fill",
     },
     {
@@ -497,7 +491,7 @@ const projects = {
     {
   id: "1",
   name: "Jumuisha",
-  url: "https://github.com/josephatotieno/jumuisha", // replace with actual link if available
+  url: "", // replace with actual link if available
   description:
     "A modern church management platform designed to help churches manage members, contributions, events, and communication in one unified system. It streamlines administrative tasks, enhances engagement, and supports automated communication via email and SMS.",
   languages: [
@@ -521,12 +515,12 @@ const projects = {
   links: [
     {
       name: "GitHub",
-      url: "https://github.com/josephatotieno/jumuisha",
+      url: "",
       iconifyClass: "ri:github-fill",
     },
     {
       name: "Live Demo",
-      url: "https://jumuisha.net",
+      url: "",
       iconifyClass: "mdi:web",
     },
   ],
@@ -535,9 +529,9 @@ const projects = {
     {
   id: "2",
   name: "CITAM Pledge & Redemption Platform",
-  url: "https://github.com/josephatotieno/citam-pledge", // replace if available
+  url: "", // replace if available
   description:
-    "A digital pledge and redemption platform developed for CITAM to support its 2.5B fundraising initiative. The system enables over 20,000 members to sign up, make pledges, and redeem contributions through integrated payment gateways including M-Pesa and bank channels. It also features automated SMS and email reminders to enhance engagement and transparency.",
+    "A digital pledge and redemption platform developed for CITAM to support its 2.5B fundraising initiative. The system has enabled over 20,000 members to sign up, make pledges, and redeem contributions through integrated payment gateways including M-Pesa and bank channels. It also features automated SMS and email reminders to enhance engagement and transparency.",
   languages: [
     {
       name: "Django Rest Framework",
@@ -559,12 +553,12 @@ const projects = {
   links: [
     {
       name: "GitHub",
-      url: "https://github.com/josephatotieno/citam-pledge",
+      url: "",
       iconifyClass: "ri:github-fill",
     },
     {
       name: "Live Demo",
-      url: "https://citamgiving.org", // replace with actual if hosted
+      url: "", // replace with actual if hosted
       iconifyClass: "mdi:web",
     },
   ],
@@ -573,9 +567,9 @@ const projects = {
 {
   id: "4",
   name: "Engie Commissions",
-  url: "https://github.com/josephatotieno/engie-commissions", // replace with actual link if available
+  url: "", // replace with actual link if available
   description:
-    "A commission management and service ticketing platform built for Engie Energy Access to automate weekly commission payments for sales agents. The system streamlines payout calculations, ensures transparency, and enables agents to report customer or product issues in real time. Reported issues are tracked and resolved quickly through an integrated service workflow, improving operational efficiency and agent satisfaction.",
+    "A commission management and service ticketing platform built for Engie to automate weekly commission payments for sales agents. The system streamlines payout calculations, ensures transparency, and enables agents to report customer or product issues in real time. Reported issues are tracked and resolved quickly through an integrated service workflow, improving operational efficiency and agent satisfaction.",
   languages: [
     {
       name: "Django Rest Framework",
@@ -597,7 +591,7 @@ const projects = {
   links: [
     {
       name: "GitHub",
-      url: "https://github.com/josephatotieno/engie-commissions",
+      url: "",
       iconifyClass: "ri:github-fill",
     },
   ],

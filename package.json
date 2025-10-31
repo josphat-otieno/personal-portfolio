@@ -2,7 +2,7 @@
   "private": true,
   "name": "personal-portfolio",
   "version": "1.0.0",
-  "homepage": "http://josphat-otieno.github.io",
+  "homepage": "https://josphat-otieno.github.io/personal-portfolio",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/personal-portfolio/static/css/main.987537aa.chunk.css",
-    "main.js": "/personal-portfolio/static/js/main.82c6a0e5.chunk.js",
-    "main.js.map": "/personal-portfolio/static/js/main.82c6a0e5.chunk.js.map",
+    "main.js": "/personal-portfolio/static/js/main.1fcf0f93.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.1fcf0f93.chunk.js.map",
     "runtime-main.js": "/personal-portfolio/static/js/runtime-main.b50c5e76.js",
     "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.b50c5e76.js.map",
-    "static/js/2.ceb8f6b3.chunk.js": "/personal-portfolio/static/js/2.ceb8f6b3.chunk.js",
-    "static/js/2.ceb8f6b3.chunk.js.map": "/personal-portfolio/static/js/2.ceb8f6b3.chunk.js.map",
+    "static/js/2.eebb3b91.chunk.js": "/personal-portfolio/static/js/2.eebb3b91.chunk.js",
+    "static/js/2.eebb3b91.chunk.js.map": "/personal-portfolio/static/js/2.eebb3b91.chunk.js.map",
     "index.html": "/personal-portfolio/index.html",
-    "precache-manifest.8a7d7a228919a55752be4f5d105c60fd.js": "/personal-portfolio/precache-manifest.8a7d7a228919a55752be4f5d105c60fd.js",
+    "precache-manifest.b2490eeabb689ecf16a748d10dad97d1.js": "/personal-portfolio/precache-manifest.b2490eeabb689ecf16a748d10dad97d1.js",
     "service-worker.js": "/personal-portfolio/service-worker.js",
     "static/css/main.987537aa.chunk.css.map": "/personal-portfolio/static/css/main.987537aa.chunk.css.map",
-    "static/js/2.ceb8f6b3.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.ceb8f6b3.chunk.js.LICENSE.txt",
+    "static/js/2.eebb3b91.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.eebb3b91.chunk.js.LICENSE.txt",
     "static/media/index.css": "/personal-portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/bauddhikgeeks-transparent.png": "/personal-portfolio/static/media/bauddhikgeeks-transparent.074c759b.png",
     "static/media/bauddhikgeeks.png": "/personal-portfolio/static/media/bauddhikgeeks.f2d490dc.png",
@@ -29,6 +29,7 @@
     "static/media/harikrushn.jpg": "/personal-portfolio/static/media/harikrushn.85891c5d.jpg",
     "static/media/iit.png": "/personal-portfolio/static/media/iit.36d7942a.png",
     "static/media/ino.png": "/personal-portfolio/static/media/ino.ccf88661.png",
+    "static/media/jkuat.png": "/personal-portfolio/static/media/jkuat.1cc3d0cd.png",
     "static/media/localguide.gif": "/personal-portfolio/static/media/localguide.847873a8.gif",
     "static/media/localguide.png": "/personal-portfolio/static/media/localguide.b7f903d7.png",
     "static/media/mlh-logo.svg": "/personal-portfolio/static/media/mlh-logo.bc5cfd3a.svg",
@@ -45,8 +46,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b50c5e76.js",
-    "static/js/2.ceb8f6b3.chunk.js",
+    "static/js/2.eebb3b91.chunk.js",
     "static/css/main.987537aa.chunk.css",
-    "static/js/main.82c6a0e5.chunk.js"
+    "static/js/main.1fcf0f93.chunk.js"
   ]
 }
